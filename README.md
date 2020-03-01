@@ -17,3 +17,9 @@ solution:
 4) using small batch size.
 5) We will be using Transfer learning technique so it will be eaiser to achieve maximum accuracy.  
   
+Result:
+![alt text](https://drive.google.com/open?id=12fyzH9vvdK32yxXZqJ-zGvaTVf4_DAFX)
+![alt text](https://drive.google.com/open?id=14nKYVBUlHy_Wk5fuliAH2sjQwHIy6BWV)
+![alt text](https://drive.google.com/open?id=1VQHiHOUryFs3o2bZs1i3K3hiyA1N63Kk)
+![alt text](https://drive.google.com/open?id=1-V5lr3vmqWfqapHJnYK7YWWhYkWhQTHO)
+![alt text](https://drive.google.com/open?id=1XYwAOGOOLFl1C_oCxddSnUYqd8w7HaRc)
