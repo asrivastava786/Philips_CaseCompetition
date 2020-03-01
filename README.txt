@@ -3,10 +3,10 @@
 Main goal of code is to deliver best accuracy of image classification out of very small dataset.
 
 Dataset: Product                  no. of images
-       1: shaver                             16
+       1: shaver                     16
        2: smart baby bottle          16
-       3: toothbrush                    16
-       4: wakeup Light                16
+       3: toothbrush                 16
+       4: wakeup Light               16
 
 Challenge: Maximum accuracy out of small dataset without adding any extra images.
 
