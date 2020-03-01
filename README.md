@@ -18,9 +18,8 @@ solution:
 5) We will be using Transfer learning technique so it will be eaiser to achieve maximum accuracy.  
   
 Result:
-![alt text](https://drive.google.com/open?id=12fyzH9vvdK32yxXZqJ-zGvaTVf4_DAFX)
-![alt text](https://drive.google.com/open?id=14nKYVBUlHy_Wk5fuliAH2sjQwHIy6BWV)
-![alt text](https://drive.google.com/open?id=1VQHiHOUryFs3o2bZs1i3K3hiyA1N63Kk)
-![alt text](https://drive.google.com/open?id=1-V5lr3vmqWfqapHJnYK7YWWhYkWhQTHO)
-![alt text](https://drive.google.com/open?id=1XYwAOGOOLFl1C_oCxddSnUYqd8w7HaRc)
-![Screenshot](baby.png)
+<img width="317" alt="Baby" src="https://user-images.githubusercontent.com/12019353/75631997-090bb280-5bf8-11ea-8dfd-9d782ab04535.PNG">
+<img width="332" alt="baby2" src="https://user-images.githubusercontent.com/12019353/75631998-09a44900-5bf8-11ea-83a5-dc771561092c.PNG">
+<img width="334" alt="shave" src="https://user-images.githubusercontent.com/12019353/75631999-0a3cdf80-5bf8-11ea-9472-32271350c002.PNG">
+<img width="342" alt="tooth" src="https://user-images.githubusercontent.com/12019353/75632000-0a3cdf80-5bf8-11ea-8e4e-956a98833f71.PNG">
+<img width="324" alt="wkl" src="https://user-images.githubusercontent.com/12019353/75632001-0a3cdf80-5bf8-11ea-878c-c361386017cb.PNG">
