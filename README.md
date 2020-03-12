@@ -1,4 +1,4 @@
-                                           # Image Classification
+ # Image Classification
 
 Main goal of code is to deliver best accuracy of image classification out of very small dataset.
 
